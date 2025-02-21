@@ -80,7 +80,7 @@ kubectl expose deployment hello-world-deployment --type=LoadBalancer --port=5000
 kubectl get services
 ```
 Check the `EXTERNAL-IP` column. If it shows `localhost`, open:
-- **http://localhost:5001/**
+- **http://localhost:5000/**
 
 To delete the deployment and service:
 ```sh
