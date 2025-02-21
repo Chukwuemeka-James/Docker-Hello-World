@@ -1,0 +1,3 @@
+# Ensures all text files use LF (Linux-style) line endings instead of CRLF (Windows-style) in Git.
+
+* text eol=lf
